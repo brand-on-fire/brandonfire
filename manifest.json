@@ -1,0 +1,12 @@
+{
+  "name": "Brand on Fire LLC",
+  "short_name": "Brand on Fire",
+  "description": "Premium web development, digital marketing, and AI consulting in Marin County, CA.",
+  "start_url": "/brandonfire/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    { "src": "/brandonfire/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
